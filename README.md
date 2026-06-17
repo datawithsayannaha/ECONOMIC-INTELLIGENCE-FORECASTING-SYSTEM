@@ -372,7 +372,7 @@ The Power BI dashboard was built using the final processed datasets generated th
 
 ---
 
-## 🧠 Skills Demonstrated
+## 🧠 Skills Used
 
 - ✅ Advanced Statistical Analysis
 - ✅ Exploratory Data Analysis (EDA)
